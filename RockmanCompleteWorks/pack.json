@@ -1,0 +1,10 @@
+{
+  "name": "Rockman Complete Works Sound Pack",
+  "description": "Sounds from the Rockman Complete Works series now on your Steam Deck!",
+  "author": "Kobun42",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
