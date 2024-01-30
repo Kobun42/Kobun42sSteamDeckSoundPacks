@@ -1,0 +1,10 @@
+{
+  "name": "exluna",
+  "description": "exluna by Jakub Koter on Flashkit. Was also notably used on the 48 in 1 and 60 in 1 JAMMA Arcade Boards.",
+  "author": "Kobun42",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
